@@ -1,2 +1,2 @@
-# Photos
+# PhotoBlog
 Photography Blog
