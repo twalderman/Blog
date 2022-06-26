@@ -1,2 +1,2 @@
-# twalderman Blog
-Photos and writing
+# Photos
+Photography Blog
